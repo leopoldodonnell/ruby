@@ -7,6 +7,6 @@ group :development do
   gem 'vcr'
   gem 'rr'
   gem 'pry'
-  gem 'webmock'
+  gem 'webmock', '>= 1.18.0'
   gem 'awesome_print'
 end
